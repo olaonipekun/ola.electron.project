@@ -1,0 +1,9 @@
+{
+  "name": "ola_electron_app",
+  "version": "1.0",
+  "description": "electron app retrieving data from remix rich api",
+  "main": "main.js",
+  "repository": "https://github.com/olaonipekun/ola.electron.project",
+  "author": "ololade",
+  "license": "MIT"
+}
